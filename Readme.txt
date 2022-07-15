@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+# HACKNU 3.0
 
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+* Landing page for NIIT Univesity's internal hackathon oragnised by CIIE. 
+
+Demo: https://aditya-jain23.github.io/Hack-NU-3.0/
